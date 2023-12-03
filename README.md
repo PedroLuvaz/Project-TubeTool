@@ -38,5 +38,3 @@ interface.py se refere à interface do programa
 
 youtube_download.py se refere ao funcionamento do download de vídeos
 
-
-by: Pedro Lucas, Erick Nathan, Vitor Jesus, Wagner Tibúrcio, Rodrigo Almeida.
